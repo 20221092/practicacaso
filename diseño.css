@@ -1,0 +1,19 @@
+*{ 
+
+    background-color:cornflowerblue;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: burlywood;
+}
+.cuadro{ color: brown;
+  text-indent:      20ex;
+
+}
+.lob{
+    column-count: inherit;
+
+}
+
+      
